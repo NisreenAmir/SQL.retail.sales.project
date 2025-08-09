@@ -1,4 +1,3 @@
-# SQL.retail.sales.project
 # Retail Sales Analysis SQL Project
 
 ## Project Overview
@@ -23,4 +22,5 @@ This project is designed to demonstrate SQL skills and techniques typically used
 **2. Customer Count:** Find out how many unique customers are in the dataset.
 
 **3. Category Count:** Identify all unique product categories in the dataset.
-Null Value Check: Check for any null values in the dataset and delete records with missing data.
+
+**4. Null Value Check:** Check for any null values in the dataset and delete records with missing data.
